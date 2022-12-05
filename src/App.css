@@ -1,0 +1,15 @@
+.empty_container {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.empty_container_img{
+    width: 30%;
+}
+.app-container {
+
+}
+ .app-container-dark {
+    background-color: rgb(68, 67, 67);
+ }

@@ -1,0 +1,11 @@
+.user_list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	background-image: linear-gradient(to right, rgb(231, 223, 223), rgb(219, 219, 166));
+	padding: 10px;
+}
+
+.user_list_contauner {
+	padding:0  200px;
+}
